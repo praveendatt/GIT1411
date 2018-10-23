@@ -1,1 +1,3 @@
 created newbranch
+
+line 1 from master
