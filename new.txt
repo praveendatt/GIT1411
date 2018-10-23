@@ -1,1 +1,2 @@
 created newbranch
+line 2 from newbranch
